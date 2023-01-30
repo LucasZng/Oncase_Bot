@@ -85,7 +85,7 @@ def index():
 
         chat_id, product_id = parse_message(message)
 
-        if store_id != 'error':
+        if product_id != 'error':
             # loading data
             data = load_dataset(product_id)
             
