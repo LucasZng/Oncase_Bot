@@ -15,7 +15,7 @@ TOKEN = '5927225837:AAE6gF_bqErAUkkSwJlLgGKsJ_I_52MfGHE'
 #https://api.telegram.org/bot5927225837:AAE6gF_bqErAUkkSwJlLgGKsJ_I_52MfGHE/getUpdates
 #
 ## Webhook
-#https://api.telegram.org/bot5927225837:AAE6gF_bqErAUkkSwJlLgGKsJ_I_52MfGHE/setWebhook?url=https://rossmann-bot-e3t3.onrender.com
+#https://api.telegram.org/bot5927225837:AAE6gF_bqErAUkkSwJlLgGKsJ_I_52MfGHE/setWebhook?url=https://oncase-bot.onrender.com
 #
 ## send message
 #https://api.telegram.org/bot5927225837:AAE6gF_bqErAUkkSwJlLgGKsJ_I_52MfGHE/sendMessage?chat_id=1633133118&text=Hi Zangs
